@@ -1,0 +1,126 @@
+* {box-sizing: border-box}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+  background-color: green;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=tenancy-duration] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=tenancy-duration]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=Email] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=Email]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=phone-number] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=phone-number]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=property-type] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=property-type]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=Payment] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=Payment]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=Property-Name] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=Property-Name]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  background-color: #0000FF;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 10%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+
